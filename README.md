@@ -5,7 +5,7 @@ Les étapes représentent des activités : piscine, toboggan, zoo qui vont pouvo
 
 # Utilisation
   - Télécharger le fichier **twisk.jar**
-  - Télécharger la bibliothèque javaFX ( 
+  - Télécharger la bibliothèque javaFX ( https://gluonhq.com/products/javafx/ )
   - Ouvrir un terminal dans le dossier où se trouve twisk.jar
   - Utiliser la ligne de commande suivant : 
 ```bash  
